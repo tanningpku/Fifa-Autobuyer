@@ -1,0 +1,12 @@
+#LWP-Cookies-2.0
+Set-Cookie3: _nx_mpcid="6cc31877-515c-477f-8a17-c8a51b96c397"; path="/"; domain=".ea.com"; path_spec; domain_dot; expires="2020-11-27 01:20:17Z"; version=0
+Set-Cookie3: FUTWebPhishing1497348385=458006869050196287; path="/"; domain=".easports.com"; path_spec; domain_dot; expires="2016-01-31 05:02:22Z"; version=0
+Set-Cookie3: remid="TUU6VnNzWHMzam5rSmxRbGtlQ2thdVlheTFZUWVwZ3E1SEY5a0VBZUFQQToxMjI1NjUwNzQ.uU9f0FJQg40CB5puSo382cVYcFZFhXZ1QTB1eeuz"; path="/connect"; domain="accounts.ea.com"; path_spec; secure; expires="2016-02-23 22:09:54Z"; HttpOnly=None; version=0
+Set-Cookie3: sid=SNjsFehJVN2yElmu8g0R0T1XJy5Dypf9TKyVuKyV66HVGpOF9007h28jDh8v6; path="/connect"; domain="accounts.ea.com"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: JSESSIONID="E56647F14426B3037650B0014B0F464F.eanshprdaccounts06"; path="/p/"; domain="signin.ea.com"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: EASFC-WEB-SESSION=mpr9f54pdp1s1ssctgd9p5dj95; path="/"; domain="www.easports.com"; path_spec; expires="2016-01-02 04:13:35Z"; HttpOnly=None; version=0
+Set-Cookie3: EASSSO=a906d89336165f2644b908c2fed923e2894ff60cc3f11ae23fff387a9ec3f61b; path="/"; domain="www.easports.com"; path_spec; expires="2016-01-03 05:02:18Z"; version=0
+Set-Cookie3: XSRF-TOKEN="KFuKjTlXD3HVJr9FlzFmyt0s2KHavAL55-b-VawcUP0"; path="/"; domain="www.easports.com"; path_spec; discard; version=0
+Set-Cookie3: e43f731b=1; path="/"; domain="www.easports.com"; path_spec; expires="2016-01-03 05:02:18Z"; version=0
+Set-Cookie3: hl=us; path="/"; domain="www.easports.com"; path_spec; expires="2016-12-31 05:02:19Z"; version=0
+Set-Cookie3: futweb=3vpijnc6885fe1sj0gl3fgl4b4; path="/iframe/fut16"; domain="www.easports.com"; path_spec; discard; HttpOnly=None; version=0
